@@ -1,5 +1,11 @@
 C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.IoC\bin\Debug\FKArch.IoC.dll
 C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.IoC\bin\Debug\FKArch.IoC.pdb
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.IoC\bin\Debug\Castle.Core.dll
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.IoC\bin\Debug\Castle.Windsor.dll
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.IoC\bin\Debug\Castle.Core.pdb
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.IoC\bin\Debug\Castle.Core.xml
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.IoC\bin\Debug\Castle.Windsor.pdb
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.IoC\bin\Debug\Castle.Windsor.xml
 C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.IoC\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.IoC\obj\Debug\FKArch.IoC.dll
 C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.IoC\obj\Debug\FKArch.IoC.pdb

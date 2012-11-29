@@ -40,7 +40,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ProductCore.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FKArch.Domain\FKArch.Domain.csproj">
+      <Project>{629A34E9-5D9E-4832-B9BD-E8BEB9C1A2A0}</Project>
+      <Name>FKArch.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FKArch.IoC\FKArch.IoC.csproj">
+      <Project>{790CE364-8856-4B16-866C-6D4386FEACC1}</Project>
+      <Name>FKArch.IoC</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FKArch.Repository\FKArch.Repository.csproj">
+      <Project>{EFA453BE-2B1F-4088-863C-62B580649F7D}</Project>
+      <Name>FKArch.Repository</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

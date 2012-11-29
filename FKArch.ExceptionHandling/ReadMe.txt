@@ -1,0 +1,1 @@
+﻿Sharp-Architecture Exception-Handling solutions will be implemented here.
