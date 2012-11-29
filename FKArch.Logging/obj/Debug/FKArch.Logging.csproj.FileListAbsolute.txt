@@ -1,0 +1,5 @@
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.Logging\bin\Debug\FKArch.Logging.dll
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.Logging\bin\Debug\FKArch.Logging.pdb
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.Logging\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.Logging\obj\Debug\FKArch.Logging.dll
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.Logging\obj\Debug\FKArch.Logging.pdb

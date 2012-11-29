@@ -1,0 +1,7 @@
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.MVC\bin\FKArch.MVC.dll
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.MVC\bin\FKArch.MVC.pdb
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.MVC\bin\EntityFramework.dll
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.MVC\bin\EntityFramework.xml
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.MVC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.MVC\obj\Debug\FKArch.MVC.dll
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.MVC\obj\Debug\FKArch.MVC.pdb

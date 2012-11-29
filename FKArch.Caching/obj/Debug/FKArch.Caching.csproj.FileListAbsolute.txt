@@ -1,0 +1,5 @@
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.Caching\bin\Debug\FKArch.Caching.dll
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.Caching\bin\Debug\FKArch.Caching.pdb
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.Caching\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.Caching\obj\Debug\FKArch.Caching.dll
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.Caching\obj\Debug\FKArch.Caching.pdb

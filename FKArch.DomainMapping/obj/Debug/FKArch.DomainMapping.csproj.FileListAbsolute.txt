@@ -1,0 +1,5 @@
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.DomainMapping\bin\Debug\FKArch.DomainMapping.dll
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.DomainMapping\bin\Debug\FKArch.DomainMapping.pdb
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.DomainMapping\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.DomainMapping\obj\Debug\FKArch.DomainMapping.dll
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.DomainMapping\obj\Debug\FKArch.DomainMapping.pdb

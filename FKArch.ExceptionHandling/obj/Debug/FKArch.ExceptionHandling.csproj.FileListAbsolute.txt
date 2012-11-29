@@ -1,0 +1,5 @@
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.ExceptionHandling\bin\Debug\FKArch.ExceptionHandling.dll
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.ExceptionHandling\bin\Debug\FKArch.ExceptionHandling.pdb
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.ExceptionHandling\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.ExceptionHandling\obj\Debug\FKArch.ExceptionHandling.dll
+C:\Users\Kaan\Documents\Visual Studio 2010\Projects\FKArchitecture\FKArch.ExceptionHandling\obj\Debug\FKArch.ExceptionHandling.pdb
