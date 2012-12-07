@@ -21,7 +21,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FKArch.Caching", "FKArch.Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FKArch.MVC", "FKArch.MVC\FKArch.MVC.csproj", "{D32FD540-E5BA-4DD8-B2F2-E373A09FC971}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FKArch.UnitTests", "FKArch.UnitTests\FKArch.UnitTests.csproj", "{A3543E16-FB61-4CAA-9CAF-9F2477884739}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C7720197-6F64-44F9-80E2-6B3970697B55}"
+	ProjectSection(SolutionItems) = preProject
+		FKArchitecture.vsmdi = FKArchitecture.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
 Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = FKArchitecture.vsmdi
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -67,6 +79,10 @@ Global
 		{D32FD540-E5BA-4DD8-B2F2-E373A09FC971}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D32FD540-E5BA-4DD8-B2F2-E373A09FC971}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D32FD540-E5BA-4DD8-B2F2-E373A09FC971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3543E16-FB61-4CAA-9CAF-9F2477884739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3543E16-FB61-4CAA-9CAF-9F2477884739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3543E16-FB61-4CAA-9CAF-9F2477884739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3543E16-FB61-4CAA-9CAF-9F2477884739}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
